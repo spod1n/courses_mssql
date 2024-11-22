@@ -1,0 +1,9 @@
+# dir project
+tmp/
+
+# python
+__pycache__/
+
+# pycharm
+.idea/
+.venv/
